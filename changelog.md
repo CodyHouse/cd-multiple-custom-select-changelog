@@ -1,5 +1,8 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.1] - 2019-12-20
+- Fixed typo (aria-controls attribute)
+
 ## [1.0.0] - 2019-12-19
 - Component created
