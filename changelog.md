@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2020-05-18
+- Fixed issue with custom checkbox ids when using multiple select elements
+
 ## [1.0.3] - 2020-03-16
 - Prevent automatic form submition when selecting options
 
